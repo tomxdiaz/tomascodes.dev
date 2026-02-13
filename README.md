@@ -1,62 +1,34 @@
-# Astro Starter Kit: Blog
+# TomasCodes.dev
 
-```sh
-npm create astro@latest -- --template blog
-```
+Welcome to **TomasCodes.dev** — my personal engineering and software development website.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🚀 About
 
-Features:
+This website serves as both:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- 💼 **Personal CV / Portfolio**  
+  A place where I showcase my professional experience, technical skills, and selected projects.
 
-## 🚀 Project Structure
+- 📝 **Software Development Blog**  
+  A space where I share insights, learnings, technical deep dives, and thoughts about software engineering.
 
-Inside of your Astro project, you'll see the following folders and files:
+## 🧑‍💻 Purpose
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+TomasCodes.dev is designed to:
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- Present my professional background and engineering journey
+- Highlight real-world projects and technical challenges
+- Share knowledge about web development, backend systems, architecture, and modern technologies
+- Document continuous learning and experimentation
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🛠 Tech Stack
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+This project is built using modern web technologies and best practices in software engineering.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## 📫 Contact
 
-## 🧞 Commands
+If you'd like to connect, collaborate, or discuss software engineering, feel free to reach out through the website.
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Built with passion for engineering and continuous improvement.
