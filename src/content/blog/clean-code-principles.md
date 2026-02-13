@@ -78,5 +78,3 @@ Clean code isn't written once and forgotten. It's continuously improved. Boy Sco
 These principles aren't just theoretical concepts—they're practical guidelines that will make you a better developer. Clean code saves time, reduces bugs, and makes collaboration easier.
 
 Remember: **Code is read far more often than it's written.** Write for the humans who will read your code, not just for the computer that executes it.
-
-What are your favorite clean code principles? Let me know!
