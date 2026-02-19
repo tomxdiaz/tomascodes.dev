@@ -2,7 +2,7 @@
 title: 'Clean Code Principles Every Developer Should Know'
 description: 'Essential principles for writing maintainable, readable, and scalable code'
 pubDate: 'Jan 15 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-1.jpg'
 ---
 
 Writing code is easy. Writing **clean code** is an art. Throughout my career as a software engineer, I've learned that the difference between good and great code often comes down to a few fundamental principles. Let's explore the key concepts that every developer should master.
